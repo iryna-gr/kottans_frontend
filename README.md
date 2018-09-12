@@ -15,3 +15,12 @@ Attached screenshots of passed materials:
 ![Linux Command Line](task1/commandline.png "Linux Command Line")
 ![Configuring Linux Web Servers](task1/lservers.jpg "Configuring Linux Web Servers")
 ![Networking for Web Developers](task1/network.jpg "Networking for Web Developers")
+
+
+Task 2
+-----------
+
+Great courses, clear explanation for the better understanding of git!
+
+![What is Version Control] (task2/vcgit.png "Version Control with Git")
+![GitHub & Collaboration] (task2/gitcollab.png "GitHub & Collaboration")
