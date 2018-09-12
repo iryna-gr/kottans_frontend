@@ -22,5 +22,5 @@ Task 2
 
 Great courses, clear explanation for the better understanding of git!
 
-![What is Version Control] (task2/vcgit.png "Version Control with Git")
-![GitHub & Collaboration] (task2/gitcollab.png "GitHub & Collaboration")
+![What is Version Control](task2/vcgit.png "Version Control with Git")
+![GitHub & Collaboration](task2/gitcollab.png "GitHub & Collaboration")
