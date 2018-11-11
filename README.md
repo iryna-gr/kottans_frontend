@@ -43,5 +43,5 @@ Attached screenshots of passed materials:
 I think a lot of information needs to be worked out, but after these courses, 
 I understand how it is important to create responsive websites. 
 Attached screenshots of passed materials:
-[!Responsive Web Design Fundamentals](task_responsive_web_design/rwdf.png "Responsive Web Design Fundamentals")
-[!Flexbox Froggy](task_responsive_web_design/frog.png "Flexbox Froggy")
+![Responsive Web Design Fundamentals](task_responsive_web_design/rwdf.png "Responsive Web Design Fundamentals")
+![Flexbox Froggy](task_responsive_web_design/frog.png "Flexbox Froggy")
