@@ -12,7 +12,7 @@ I am sure that all new information will greatly improve the efficiency of my wor
 With Linux command line I was somehow familiar before as Linux-user, but it helped me to structure knowledge. I've realise that I did not use even 5% possibilities of linux command line.
 Configuring Linux Web Servers, Networking for Web Developers was totaly new for me, so I have to work on this in future, becourse not all information was clear for me.
 Attached screenshots of passed materials:
-![Learn the Command Line](task_linux_cli/command.jpg "Learn the Command Line")
+![Learn the Command Line](task_linux_cli/command.png "Learn the Command Line")
 ![Linux Command Line](task_linux_cli/commandline.png "Linux Command Line")
 ![Configuring Linux Web Servers](task_linux_cli/lservers.jpg "Configuring Linux Web Servers")
 ![Networking for Web Developers](task_linux_cli/network.jpg "Networking for Web Developers")
