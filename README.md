@@ -45,3 +45,17 @@ I understand how it is important to create responsive websites.
 Attached screenshots of passed materials:
 ![Responsive Web Design Fundamentals](task_responsive_web_design/rwdf.png "Responsive Web Design Fundamentals")
 ![Flexbox Froggy](task_responsive_web_design/frog.png "Flexbox Froggy")
+
+
+ ## JS Basics
+---------------
+"Intro to JavaScript": Great course, I like the explanation of arrays, objects, methods.
+After quizzes in "Intro to JS" tasks from freeCodeCamp was like "cold shower" to me,
+I  "google" a lot, but still, it is not all very clear ...  New to me is advanced techniques like ternary operator, 
+
+using methods reduce(), map(), filter(), template literals, constructor functions. 
+
+Now I have more understanding and a desire to study JS.
+
+![Intro to JavaScript](task_js_basics/js.png "Intro to JavaScript")
+![Algorithm Scripting Challenges](task_js_basics/alg.png "Algorithm Scripting Challenges")
