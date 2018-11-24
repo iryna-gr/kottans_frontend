@@ -51,9 +51,7 @@ Attached screenshots of passed materials:
 ---------------
 "Intro to JavaScript": Great course, I like the explanation of arrays, objects, methods.
 After quizzes in "Intro to JS" tasks from freeCodeCamp was like "cold shower" to me,
-I  "google" a lot, but still, it is not all very clear ...  New to me is advanced techniques like ternary operator, 
-
-using methods reduce(), map(), filter(), template literals, constructor functions. 
+I  "google" a lot, but still, it is not all very clear ...  New to me is advanced techniques like ternary operator, using methods reduce(), map(), filter(), template literals, constructor functions. 
 
 Now I have more understanding and a desire to study JS.
 
