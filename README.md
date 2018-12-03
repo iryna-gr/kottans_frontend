@@ -57,3 +57,11 @@ Now I have more understanding and a desire to study JS.
 
 ![Intro to JavaScript](task_js_basics/js.png "Intro to JavaScript")
 ![Algorithm Scripting Challenges](task_js_basics/alg.png "Algorithm Scripting Challenges")
+
+
+## DOM
+---------
+"JavaScript and the DOM": The content is good and easy to understand.I like explanation of stack, queue, nodes.I didn't thougth I could learn JavaScript DOM  in a easy way, I need more information like this.
+Quizzes on freecodecamp - same stuff as previous...Google saves))
+![JavaScript and the DOM](task_js_dom/dom.png "JavaScript and the DOM")
+![Algorithm Scripting Challenges](task_js_dom/fcc-2.png "Algorithm Scripting Challenges")
